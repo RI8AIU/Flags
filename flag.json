@@ -1,4 +1,5 @@
-"CZK"
+{
+  "CZK"
 "GBP"
 "UAH"
 "BRL"
@@ -27,8 +28,9 @@
 "CAD"
 "KGS"
 "AZN"
-"AMD"
+"AMD": "Flags/AMD.png"
 "UZS"
 "EUR"
 "ZAR"
 "PLN"
+}
