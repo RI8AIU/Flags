@@ -1,36 +1,36 @@
 {
-  "CZK"
-"GBP"
-"UAH"
-"BRL"
-"JPY"
-"TMT"
-"KRW"
-"INR"
-"KZT"
-"TRY"
-"CNY"
-"HUF"
-"BGN"
-"BYN"
-"SGD"
-"SEK"
-"XDR"
-"TJS"
-"DKK"
-"RON"
-"MDL"
-"NOK"
-"USD"
-"HKD"
-"AUD"
-"CHF"
-"CAD"
-"KGS"
-"AZN"
-"AMD": "Flags/AMD.png"
-"UZS"
-"EUR"
-"ZAR"
-"PLN"
+"CZK": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/CZK.png",
+"GBP": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/GBP.png",
+"UAH": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/UAH.png",
+"BRL": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/BRL.png",
+"JPY": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/JPY.png",
+"TMT": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/TMT.png",
+"KRW": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/KRW.png",
+"INR": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/INR.png",
+"KZT": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/KZT.png",
+"TRY": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/TRY.png",
+"CNY": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/CNY.png",
+"HUF": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/HUF.png",
+"BGN": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/BGN.png",
+"BYN": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/BYN.png",
+"SGD": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/SGD.png",
+"SEK": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/SEK.png",
+"XDR": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/XDR.png",
+"TJS": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/TJS.png",
+"DKK": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/DKK.png",
+"RON": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/RON.png",
+"MDL": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/MDL.png",
+"NOK": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/NOK.png",
+"USD": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/USD.png",
+"HKD": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/HKD.png",
+"AUD": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/AUD.png",
+"CHF": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/CHF.png",
+"CAD": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/CAD.png",
+"KGS": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/KGS.png",
+"AZN": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/AZN.png",
+"AMD": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/AMD.png",
+"UZS": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/UZS.png",
+"EUR": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/EUR.png",
+"ZAR": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/ZAR.png",
+"PLN": "https://github.com/RI8AIU/Flags/blob/5510816acb7a78a6a82a2d6545499711077ece05/Flags/PLN.png",
 }
